@@ -143,12 +143,14 @@ export function App() {
 
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 flex flex-col font-sans transition-colors duration-200">
-      <Header
-        isDark={isDark}
-        onToggleTheme={handleToggleTheme}
-        onReset={screenState !== 'home' ? handleBackToHome : undefined}
-        showReset={screenState !== 'home'}
-      />
+      {screenState !== 'playing' && (
+        <Header
+          isDark={isDark}
+          onToggleTheme={handleToggleTheme}
+          onReset={screenState !== 'home' ? handleBackToHome : undefined}
+          showReset={screenState !== 'home'}
+        />
+      )}
 
       {/* PANTALLA PRINCIPAL */}
       {screenState === 'home' && (
@@ -287,6 +289,8 @@ export function App() {
           words={activeWords}
           gameMode={gameMode}
           scoreConfig={scoreConfig}
+          isDark={isDark}
+          onToggleTheme={handleToggleTheme}
           onExit={handleBackToHome}
           onFinishGame={handleFinishScoreGame}
           onReshuffle={handleReshuffle}
