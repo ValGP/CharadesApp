@@ -1,0 +1,29 @@
+{
+  "id": "countries",
+  "name": "Países",
+  "icon": "Globe",
+  "description": "Países y culturas del mundo",
+  "hasDualTitles": false,
+  "words": [
+    { "id": "cou-001", "es": "Argentina" },
+    { "id": "cou-002", "es": "Japón" },
+    { "id": "cou-003", "es": "Francia" },
+    { "id": "cou-004", "es": "Egipto" },
+    { "id": "cou-005", "es": "México" },
+    { "id": "cou-006", "es": "Brasil" },
+    { "id": "cou-007", "es": "Italia" },
+    { "id": "cou-008", "es": "Estados Unidos" },
+    { "id": "cou-009", "es": "Australia" },
+    { "id": "cou-010", "es": "Reino Unido (Inglaterra)" },
+    { "id": "cou-011", "es": "Alemania" },
+    { "id": "cou-012", "es": "China" },
+    { "id": "cou-013", "es": "India" },
+    { "id": "cou-014", "es": "España" },
+    { "id": "cou-015", "es": "Canadá" },
+    { "id": "cou-016", "es": "Grecia" },
+    { "id": "cou-017", "es": "Rusia" },
+    { "id": "cou-018", "es": "Jamaica" },
+    { "id": "cou-019", "es": "Colombia" },
+    { "id": "cou-020", "es": "Chile" }
+  ]
+}

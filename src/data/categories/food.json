@@ -1,0 +1,29 @@
+{
+  "id": "food",
+  "name": "Comida",
+  "icon": "Utensils",
+  "description": "Platos deliciosos, postres y bebidas",
+  "hasDualTitles": false,
+  "words": [
+    { "id": "foo-001", "es": "Pizza con queso derretido estirándose" },
+    { "id": "foo-002", "es": "Sushi con palillos chinos" },
+    { "id": "foo-003", "es": "Empanadas calientes" },
+    { "id": "foo-004", "es": "Tacos con salsa picante" },
+    { "id": "foo-005", "es": "Helado derritiéndose en la mano" },
+    { "id": "foo-006", "es": "Hamburguesa triple con papas fritas" },
+    { "id": "foo-007", "es": "Panchos / Hot Dogs con mostaza" },
+    { "id": "foo-008", "es": "Asado a la parrilla" },
+    { "id": "foo-009", "es": "Paella con mariscos" },
+    { "id": "foo-010", "es": "Algodón de azúcar" },
+    { "id": "foo-011", "es": "Donas glaseadas" },
+    { "id": "foo-012", "es": "Popcorn / Pochoclos en el cine" },
+    { "id": "foo-013", "es": "Café espresso recién servido" },
+    { "id": "foo-014", "es": "Fondue de queso" },
+    { "id": "foo-015", "es": "Ceviche peruano" },
+    { "id": "foo-016", "es": "Panqueques con dulce de leche" },
+    { "id": "foo-017", "es": "Churros con chocolate caliente" },
+    { "id": "foo-018", "es": "Sopa hirviendo con cuchara" },
+    { "id": "foo-019", "es": "Torta de cumpleaños con velitas" },
+    { "id": "foo-020", "es": "Milanesa con puré" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "professions",
+  "name": "Profesiones",
+  "icon": "Briefcase",
+  "description": "Trabajos, profesiones y oficios",
+  "hasDualTitles": false,
+  "words": [
+    { "id": "pro-001", "es": "Bombero apagando fuego" },
+    { "id": "pro-002", "es": "Astronauta en gravedad cero" },
+    { "id": "pro-003", "es": "Cirujano operando" },
+    { "id": "pro-004", "es": "Detective privado con lupa" },
+    { "id": "pro-005", "es": "Pintor artístico con boina" },
+    { "id": "pro-006", "es": "Árbitro de fútbol cobrando penal" },
+    { "id": "pro-007", "es": "Chef enojado en cocina" },
+    { "id": "pro-008", "es": "Fotógrafo de vida silvestre" },
+    { "id": "pro-009", "es": "Piloto de avión comercial" },
+    { "id": "pro-010", "es": "Mago haciendo trucos de cartas" },
+    { "id": "pro-011", "es": "Arqueólogo descubriendo una momia" },
+    { "id": "pro-012", "es": "Dentista con taladro" },
+    { "id": "pro-013", "es": "Peluquero haciendo un corte raro" },
+    { "id": "pro-014", "es": "Mecánico debajo de un auto" },
+    { "id": "pro-015", "es": "Pescador luchando con un pez gigante" },
+    { "id": "pro-016", "es": "Guardaespaldas alerta" },
+    { "id": "pro-017", "es": "Domador de leones con látigo" },
+    { "id": "pro-018", "es": "Presentador de televisión en vivo" },
+    { "id": "pro-019", "es": "Profesor estricto corrigiendo exámenes" },
+    { "id": "pro-020", "es": "Albañil cargando ladrillos" }
+  ]
+}

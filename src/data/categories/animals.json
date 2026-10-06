@@ -1,0 +1,29 @@
+{
+  "id": "animals",
+  "name": "Animales",
+  "icon": "PawPrint",
+  "description": "Animales de todo el reino animal",
+  "hasDualTitles": false,
+  "words": [
+    { "id": "ani-001", "es": "Canguro saltarín" },
+    { "id": "ani-002", "es": "Camaleón que cambia de color" },
+    { "id": "ani-003", "es": "Pingüino caminando en el hielo" },
+    { "id": "ani-004", "es": "Murciélago colgado boca abajo" },
+    { "id": "ani-005", "es": "Gorila golpeándose el pecho" },
+    { "id": "ani-006", "es": "Perezoso moviéndose en cámara lenta" },
+    { "id": "ani-007", "es": "Jirafa comiendo hojas altas" },
+    { "id": "ani-008", "es": "Flamenco parado en una sola pata" },
+    { "id": "ani-009", "es": "Tiburón martillo cazando" },
+    { "id": "ani-010", "es": "Pulpo escapando con tinta" },
+    { "id": "ani-011", "es": "Serpiente cascabel cascabelera" },
+    { "id": "ani-012", "es": "Ardilla enterrando una nuez" },
+    { "id": "ani-013", "es": "Koala durmiendo en un eucalipto" },
+    { "id": "ani-014", "es": "Rinoceronte furioso cargando" },
+    { "id": "ani-015", "es": "Pavo real abriendo sus plumas" },
+    { "id": "ani-016", "es": "Nutria flotando boca arriba" },
+    { "id": "ani-017", "es": "Gato persiguiendo un puntero láser" },
+    { "id": "ani-018", "es": "Perro persiguiéndose la cola" },
+    { "id": "ani-019", "es": "Búho girando la cabeza" },
+    { "id": "ani-020", "es": "Cangrejo caminando de costado" }
+  ]
+}

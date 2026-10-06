@@ -1,0 +1,29 @@
+{
+  "id": "sports",
+  "name": "Deportes",
+  "icon": "Trophy",
+  "description": "Deportes, disciplinas y actividades atléticas",
+  "hasDualTitles": false,
+  "words": [
+    { "id": "spo-001", "es": "Fútbol" },
+    { "id": "spo-002", "es": "Baloncesto (Básquet)" },
+    { "id": "spo-003", "es": "Tenis" },
+    { "id": "spo-004", "es": "Natación estilo mariposa" },
+    { "id": "spo-005", "es": "Boxeo" },
+    { "id": "spo-006", "es": "Gimnasia artística" },
+    { "id": "spo-007", "es": "Voleibol" },
+    { "id": "spo-008", "es": "Golf" },
+    { "id": "spo-009", "es": "Béisbol" },
+    { "id": "spo-010", "es": "Rugby" },
+    { "id": "spo-011", "es": "Lanzamiento de jabalina" },
+    { "id": "spo-012", "es": "Salto con garrocha" },
+    { "id": "spo-013", "es": "Esgrima" },
+    { "id": "spo-014", "es": "Halterofilia (Levantamiento de pesas)" },
+    { "id": "spo-015", "es": "Patinaje sobre hielo" },
+    { "id": "spo-016", "es": "Tiro con arco" },
+    { "id": "spo-017", "es": "Surf" },
+    { "id": "spo-018", "es": "Karate" },
+    { "id": "spo-019", "es": "Ciclismo de montaña" },
+    { "id": "spo-020", "es": "Bolo americano (Bowling)" }
+  ]
+}
